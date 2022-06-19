@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "prefecture": "鳥取県",
+            "city": "倉吉市",
+            "ward": "和田",
+            "others": "11-10-480",
+            "zipcode": "9460290"
+        },
+        {
+            "prefecture": "兵庫県",
+            "city": "淡路市",
+            "ward": "生穂新島",
+            "others": "8-50-118",
+            "zipcode": "4289930"
+        },
+        {
+            "prefecture": "愛知県",
+            "city": "北名古屋市",
+            "ward": "山之腰",
+            "others": "6-6-149",
+            "zipcode": "3423721"
+        },
+        {
+            "prefecture": "新潟県",
+            "city": "新潟市中央区",
+            "ward": "寄居町",
+            "others": "6-34-465",
+            "zipcode": "3526982"
+        },
+        {
+            "prefecture": "高知県",
+            "city": "高知市",
+            "ward": "布師田",
+            "others": "9-36-162",
+            "zipcode": "8599669"
+        },
+        {
+            "prefecture": "福島県",
+            "city": "郡山市",
+            "ward": "三穂田町野田",
+            "others": "9-5-192",
+            "zipcode": "2651974"
+        },
+        {
+            "prefecture": "三重県",
+            "city": "四日市市",
+            "ward": "大井の川町",
+            "others": "11-43-345",
+            "zipcode": "6838774"
+        },
+        {
+            "prefecture": "福井県",
+            "city": "敦賀市",
+            "ward": "観音町",
+            "others": "10-36-120",
+            "zipcode": "2127516"
+        },
+        {
+            "prefecture": "島根県",
+            "city": "雲南市",
+            "ward": "加茂町砂子原",
+            "others": "3-1-273",
+            "zipcode": "5034976"
+        },
+        {
+            "prefecture": "福島県",
+            "city": "大沼郡会津美里町",
+            "ward": "八木沢",
+            "others": "13-35-67",
+            "zipcode": "4477852"
+        },
+        {
+            "prefecture": "熊本県",
+            "city": "玉名市",
+            "ward": "繁根木",
+            "others": "12-10-268",
+            "zipcode": "5735366"
+        },
+        {
+            "prefecture": "北海道",
+            "city": "常呂郡置戸町",
+            "ward": "洗心",
+            "others": "2-45-434",
+            "zipcode": "6980995"
+        },
+        {
+            "prefecture": "福島県",
+            "city": "白河市",
+            "ward": "九番町",
+            "others": "8-8-275",
+            "zipcode": "7356611"
+        },
+        {
+            "prefecture": "茨城県",
+            "city": "古河市",
+            "ward": "谷貝",
+            "others": "7-36-238",
+            "zipcode": "8274133"
+        },
+        {
+            "prefecture": "東京都",
+            "city": "西多摩郡奥多摩町",
+            "ward": "川井",
+            "others": "8-14-498",
+            "zipcode": "7102599"
+        },
+        {
+            "prefecture": "和歌山県",
+            "city": "和歌山市",
+            "ward": "十二番丁",
+            "others": "3-36-298",
+            "zipcode": "6654213"
+        },
+        {
+            "prefecture": "佐賀県",
+            "city": "神埼市",
+            "ward": "脊振町鹿路",
+            "others": "1-27-54",
+            "zipcode": "2889462"
+        },
+        {
+            "prefecture": "山形県",
+            "city": "鶴岡市",
+            "ward": "矢引",
+            "others": "9-28-42",
+            "zipcode": "9174216"
+        },
+        {
+            "prefecture": "秋田県",
+            "city": "横手市",
+            "ward": "卸町",
+            "others": "4-9-498",
+            "zipcode": "9662711"
+        },
+        {
+            "prefecture": "愛知県",
+            "city": "あま市",
+            "ward": "本郷",
+            "others": "9-24-98",
+            "zipcode": "1350836"
+        },
+        {
+            "prefecture": "三重県",
+            "city": "松阪市",
+            "ward": "岡本町",
+            "others": "8-4-340",
+            "zipcode": "1728627"
+        },
+        {
+            "prefecture": "北海道",
+            "city": "紋別郡西興部村",
+            "ward": "中藻",
+            "others": "4-34-314",
+            "zipcode": "7425983"
+        },
+        {
+            "prefecture": "熊本県",
+            "city": "玉名郡玉東町",
+            "ward": "上木葉",
+            "others": "8-44-251",
+            "zipcode": "6353724"
+        },
+        {
+            "prefecture": "福井県",
+            "city": "坂井市",
+            "ward": "丸岡町川上",
+            "others": "5-46-66",
+            "zipcode": "8102731"
+        },
+        {
+            "prefecture": "宮城県",
+            "city": "石巻市",
+            "ward": "中屋敷",
+            "others": "9-23-197",
+            "zipcode": "1533609"
+        },
+        {
+            "prefecture": "群馬県",
+            "city": "高崎市",
+            "ward": "下斉田町",
+            "others": "7-21-65",
+            "zipcode": "3214250"
+        },
+        {
+            "prefecture": "大阪府",
+            "city": "大阪市天王寺区",
+            "ward": "国分町",
+            "others": "11-30-151",
+            "zipcode": "8637077"
+        },
+        {
+            "prefecture": "新潟県",
+            "city": "新発田市",
+            "ward": "本町",
+            "others": "4-44-105",
+            "zipcode": "8532649"
+        },
+        {
+            "prefecture": "福岡県",
+            "city": "柳川市",
+            "ward": "大和町徳益",
+            "others": "15-10-274",
+            "zipcode": "6319274"
+        },
+        {
+            "prefecture": "長崎県",
+            "city": "佐世保市",
+            "ward": "吉井町板樋",
+            "others": "15-10-323",
+            "zipcode": "7176752"
+        },
+        {
+            "prefecture": "香川県",
+            "city": "坂出市",
+            "ward": "加茂町",
+            "others": "9-23-131",
+            "zipcode": "6562137"
+        },
+        {
+            "prefecture": "北海道",
+            "city": "紋別郡湧別町",
+            "ward": "緑蔭",
+            "others": "9-31-489",
+            "zipcode": "8998189"
+        },
+        {
+            "prefecture": "群馬県",
+            "city": "伊勢崎市",
+            "ward": "美茂呂町",
+            "others": "5-21-454",
+            "zipcode": "2773443"
+        },
+        {
+            "prefecture": "千葉県",
+            "city": "印旛郡栄町",
+            "ward": "安食台",
+            "others": "11-43-388",
+            "zipcode": "9490105"
+        },
+        {
+            "prefecture": "滋賀県",
+            "city": "彦根市",
+            "ward": "南三ツ谷町",
+            "others": "1-34-10",
+            "zipcode": "5385640"
+        },
+        {
+            "prefecture": "愛知県",
+            "city": "日進市",
+            "ward": "本郷町",
+            "others": "3-22-179",
+            "zipcode": "4236666"
+        },
+        {
+            "prefecture": "宮崎県",
+            "city": "宮崎市",
+            "ward": "江平西",
+            "others": "3-50-461",
+            "zipcode": "1185386"
+        },
+        {
+            "prefecture": "富山県",
+            "city": "富山市",
+            "ward": "安野屋町",
+            "others": "9-31-132",
+            "zipcode": "1443640"
+        },
+        {
+            "prefecture": "兵庫県",
+            "city": "美方郡香美町",
+            "ward": "香住区浦上",
+            "others": "12-42-291",
+            "zipcode": "5237322"
+        },
+        {
+            "prefecture": "愛知県",
+            "city": "春日井市",
+            "ward": "朝宮町",
+            "others": "6-13-195",
+            "zipcode": "2128182"
+        },
+        {
+            "prefecture": "栃木県",
+            "city": "足利市",
+            "ward": "名草上町",
+            "others": "8-48-439",
+            "zipcode": "4676520"
+        },
+        {
+            "prefecture": "秋田県",
+            "city": "横手市",
+            "ward": "十文字町西原２番町",
+            "others": "13-45-389",
+            "zipcode": "9374794"
+        },
+        {
+            "prefecture": "千葉県",
+            "city": "香取郡多古町",
+            "ward": "中村新田",
+            "others": "13-27-72",
+            "zipcode": "6169304"
+        },
+        {
+            "prefecture": "熊本県",
+            "city": "人吉市",
+            "ward": "南願成寺町",
+            "others": "13-5-369",
+            "zipcode": "8660958"
+        },
+        {
+            "prefecture": "青森県",
+            "city": "平川市",
+            "ward": "日沼富田",
+            "others": "8-36-214",
+            "zipcode": "9265061"
+        },
+        {
+            "prefecture": "大分県",
+            "city": "豊後高田市",
+            "ward": "田染真木",
+            "others": "15-6-317",
+            "zipcode": "3487423"
+        },
+        {
+            "prefecture": "愛知県",
+            "city": "稲沢市",
+            "ward": "平江向町",
+            "others": "7-36-127",
+            "zipcode": "2172006"
+        },
+        {
+            "prefecture": "大分県",
+            "city": "佐伯市",
+            "ward": "上浦最勝海浦",
+            "others": "9-35-89",
+            "zipcode": "2767854"
+        },
+        {
+            "prefecture": "徳島県",
+            "city": "三好市",
+            "ward": "山城町川口",
+            "others": "4-12-174",
+            "zipcode": "1804361"
+        },
+        {
+            "prefecture": "大阪府",
+            "city": "和泉市",
+            "ward": "春木川町",
+            "others": "5-2-337",
+            "zipcode": "8939711"
+        },
+        {
+            "prefecture": "岡山県",
+            "city": "新見市",
+            "ward": "大佐小南",
+            "others": "6-28-52",
+            "zipcode": "9226818"
+        },
+        {
+            "prefecture": "静岡県",
+            "city": "沼津市",
+            "ward": "鳥谷",
+            "others": "7-9-268",
+            "zipcode": "3959675"
+        },
+        {
+            "prefecture": "静岡県",
+            "city": "裾野市",
+            "ward": "二ツ屋",
+            "others": "14-30-320",
+            "zipcode": "8486341"
+        },
+        {
+            "prefecture": "石川県",
+            "city": "小松市",
+            "ward": "泉町",
+            "others": "13-13-356",
+            "zipcode": "5448214"
+        },
+        {
+            "prefecture": "愛知県",
+            "city": "名古屋市東区",
+            "ward": "東外堀町",
+            "others": "1-46-275",
+            "zipcode": "9140256"
+        },
+        {
+            "prefecture": "富山県",
+            "city": "滑川市",
+            "ward": "河浦町",
+            "others": "10-47-337",
+            "zipcode": "1148483"
+        },
+        {
+            "prefecture": "兵庫県",
+            "city": "西宮市",
+            "ward": "天道町",
+            "others": "4-46-137",
+            "zipcode": "7329595"
+        },
+        {
+            "prefecture": "福岡県",
+            "city": "北九州市八幡東区",
+            "ward": "平野",
+            "others": "11-35-137",
+            "zipcode": "9791966"
+        },
+        {
+            "prefecture": "茨城県",
+            "city": "古河市",
+            "ward": "北山田",
+            "others": "11-43-27",
+            "zipcode": "6073503"
+        },
+        {
+            "prefecture": "宮城県",
+            "city": "遠田郡涌谷町",
+            "ward": "砂田",
+            "others": "1-10-356",
+            "zipcode": "3071542"
+        },
+        {
+            "prefecture": "静岡県",
+            "city": "掛川市",
+            "ward": "久居島",
+            "others": "12-16-366",
+            "zipcode": "9494942"
+        },
+        {
+            "prefecture": "熊本県",
+            "city": "玉名市",
+            "ward": "小島",
+            "others": "10-37-24",
+            "zipcode": "3531056"
+        },
+        {
+            "prefecture": "神奈川県",
+            "city": "横浜市青葉区",
+            "ward": "大場町",
+            "others": "5-10-107",
+            "zipcode": "3391560"
+        },
+        {
+            "prefecture": "富山県",
+            "city": "富山市",
+            "ward": "婦中町希望ケ丘",
+            "others": "12-24-57",
+            "zipcode": "7495100"
+        },
+        {
+            "prefecture": "愛知県",
+            "city": "稲沢市",
+            "ward": "山口本町",
+            "others": "12-19-248",
+            "zipcode": "8841294"
+        },
+        {
+            "prefecture": "岐阜県",
+            "city": "多治見市",
+            "ward": "豊岡町",
+            "others": "4-10-180",
+            "zipcode": "2530183"
+        },
+        {
+            "prefecture": "岐阜県",
+            "city": "大垣市",
+            "ward": "北切石町",
+            "others": "11-44-37",
+            "zipcode": "2335417"
+        },
+        {
+            "prefecture": "新潟県",
+            "city": "十日町市",
+            "ward": "北鐙坂",
+            "others": "12-48-327",
+            "zipcode": "5953993"
+        },
+        {
+            "prefecture": "京都府",
+            "city": "京都市中京区",
+            "ward": "西ノ京星池町",
+            "others": "5-40-338",
+            "zipcode": "3794881"
+        },
+        {
+            "prefecture": "青森県",
+            "city": "青森市",
+            "ward": "千富町",
+            "others": "15-23-132",
+            "zipcode": "1279317"
+        },
+        {
+            "prefecture": "広島県",
+            "city": "府中市",
+            "ward": "用土町",
+            "others": "6-41-446",
+            "zipcode": "4247634"
+        },
+        {
+            "prefecture": "新潟県",
+            "city": "佐渡市",
+            "ward": "八幡新町",
+            "others": "15-40-326",
+            "zipcode": "7758943"
+        },
+        {
+            "prefecture": "福島県",
+            "city": "いわき市",
+            "ward": "瀬戸町",
+            "others": "2-2-268",
+            "zipcode": "9573742"
+        },
+        {
+            "prefecture": "北海道",
+            "city": "滝川市",
+            "ward": "新町",
+            "others": "15-14-278",
+            "zipcode": "5188319"
+        },
+        {
+            "prefecture": "富山県",
+            "city": "黒部市",
+            "ward": "立野",
+            "others": "8-3-84",
+            "zipcode": "3219452"
+        },
+        {
+            "prefecture": "三重県",
+            "city": "いなべ市",
+            "ward": "藤原町本郷",
+            "others": "10-28-269",
+            "zipcode": "8480230"
+        },
+        {
+            "prefecture": "石川県",
+            "city": "七尾市",
+            "ward": "小島町",
+            "others": "8-29-202",
+            "zipcode": "4743436"
+        },
+        {
+            "prefecture": "鳥取県",
+            "city": "岩美郡岩美町",
+            "ward": "馬場",
+            "others": "11-27-31",
+            "zipcode": "8738872"
+        },
+        {
+            "prefecture": "岡山県",
+            "city": "瀬戸内市",
+            "ward": "長船町磯上",
+            "others": "12-25-206",
+            "zipcode": "4654214"
+        },
+        {
+            "prefecture": "福岡県",
+            "city": "直方市",
+            "ward": "湯野原",
+            "others": "2-10-463",
+            "zipcode": "1213179"
+        },
+        {
+            "prefecture": "鹿児島県",
+            "city": "阿久根市",
+            "ward": "赤瀬川",
+            "others": "10-12-443",
+            "zipcode": "5156346"
+        },
+        {
+            "prefecture": "京都府",
+            "city": "京都市上京区",
+            "ward": "継孝院町",
+            "others": "7-3-96",
+            "zipcode": "8480319"
+        },
+        {
+            "prefecture": "大阪府",
+            "city": "高槻市",
+            "ward": "上牧南駅前町",
+            "others": "14-24-254",
+            "zipcode": "6622413"
+        },
+        {
+            "prefecture": "長崎県",
+            "city": "長崎市",
+            "ward": "下大野町",
+            "others": "3-17-240",
+            "zipcode": "8146426"
+        },
+        {
+            "prefecture": "岩手県",
+            "city": "奥州市",
+            "ward": "水沢区鶴淵",
+            "others": "5-50-49",
+            "zipcode": "8696299"
+        },
+        {
+            "prefecture": "長崎県",
+            "city": "大村市",
+            "ward": "小路口町",
+            "others": "15-40-5",
+            "zipcode": "7478051"
+        },
+        {
+            "prefecture": "鹿児島県",
+            "city": "いちき串木野市",
+            "ward": "港町",
+            "others": "11-25-397",
+            "zipcode": "6575832"
+        },
+        {
+            "prefecture": "愛知県",
+            "city": "岡崎市",
+            "ward": "竜美大入町",
+            "others": "9-28-47",
+            "zipcode": "8681936"
+        },
+        {
+            "prefecture": "岩手県",
+            "city": "滝沢市",
+            "ward": "鵜飼狐洞",
+            "others": "13-44-165",
+            "zipcode": "9987949"
+        },
+        {
+            "prefecture": "新潟県",
+            "city": "上越市",
+            "ward": "灰塚",
+            "others": "5-33-234",
+            "zipcode": "6838148"
+        },
+        {
+            "prefecture": "宮城県",
+            "city": "気仙沼市",
+            "ward": "赤岩小田",
+            "others": "15-49-393",
+            "zipcode": "1381080"
+        },
+        {
+            "prefecture": "愛媛県",
+            "city": "松山市",
+            "ward": "若葉町",
+            "others": "7-11-240",
+            "zipcode": "8629284"
+        },
+        {
+            "prefecture": "山形県",
+            "city": "東田川郡庄内町",
+            "ward": "跡",
+            "others": "2-8-440",
+            "zipcode": "5106194"
+        },
+        {
+            "prefecture": "福井県",
+            "city": "越前市",
+            "ward": "島町",
+            "others": "9-11-426",
+            "zipcode": "4401092"
+        },
+        {
+            "prefecture": "静岡県",
+            "city": "伊豆の国市",
+            "ward": "北江間",
+            "others": "2-43-42",
+            "zipcode": "3487222"
+        },
+        {
+            "prefecture": "新潟県",
+            "city": "南魚沼市",
+            "ward": "滝谷",
+            "others": "11-11-169",
+            "zipcode": "2047607"
+        },
+        {
+            "prefecture": "京都府",
+            "city": "京都市左京区",
+            "ward": "北白川東瀬ノ内町",
+            "others": "13-33-415",
+            "zipcode": "3638768"
+        },
+        {
+            "prefecture": "群馬県",
+            "city": "吾妻郡嬬恋村",
+            "ward": "干俣",
+            "others": "6-15-69",
+            "zipcode": "7844677"
+        },
+        {
+            "prefecture": "山形県",
+            "city": "山形市",
+            "ward": "相生町",
+            "others": "13-33-42",
+            "zipcode": "9960080"
+        },
+        {
+            "prefecture": "福岡県",
+            "city": "行橋市",
+            "ward": "宝山",
+            "others": "9-27-34",
+            "zipcode": "3685701"
+        }
+    ]
+}
