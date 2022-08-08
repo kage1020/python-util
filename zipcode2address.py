@@ -9,13 +9,13 @@ def main():
 
 def get_address(zipcode):
     dfNormal = pd.read_csv(
-        'C:/Users/yuki_/python/dataset/KEN_ALL.csv', 
+        'C:/Users/kage1020/python/dataset/KEN_ALL.csv', 
         encoding='cp932', 
         names=['areaCode', 'oldZipcode', 'zipcode', 'prefHalf', 'cityHalf', 'wardHalf', 'pref', 'city', 'ward', 'option1', 'option2', 'option3', 'option4', 'option5', 'option6'],
         dtype={'areaCode': 'object', 'oldZipcode': 'object', 'zipcode': 'object', 'prefHalf': 'object', 'cityHalf': 'object', 'wardHalf': 'object', 'pref': 'object', 'city': 'object', 'ward': 'object', 'option1': 'object', 'option2': 'object', 'option3': 'object', 'option4': 'object', 'option5': 'object', 'option6': 'object'}
     )
     dfCompany = pd.read_csv(
-        'C:/Users/yuki_/python/dataset/JIGYOSYO.CSV',
+        'C:/Users/kage1020/python/dataset/JIGYOSYO.CSV',
         encoding='cp932',
         names=['jis', 'nameHalf', 'name', 'pref', 'city', 'ward', 'others', 'zipcode', 'oldZipcode', 'area', 'option1', 'option2', 'option3'],
         dtype={'jis': 'object', 'nameHalf': 'object', 'name': 'object', 'pref': 'object', 'city': 'object', 'ward': 'object', 'others': 'object', 'zipcode': 'object', 'oldZipcode': 'object', 'area': 'object', 'option1': 'object', 'option2': 'object', 'option3': 'object'}
