@@ -10,7 +10,7 @@ def main():
 
 
 def format_file(filename: str) -> None:
-    with open('C:/Users/yuki_/python/dataset/' + filename, mode='r', encoding='cp932') as file:
+    with open('C:/Users/kage1020/python/dataset/' + filename, mode='r', encoding='cp932') as file:
         df = pd.read_csv(file, dtype='object', header=None).fillna('')
         data = df.to_numpy(copy=True).tolist()
     
@@ -42,8 +42,8 @@ def format_file(filename: str) -> None:
 
     new_data = list(map(list, set(map(tuple, new_data))))
     new_data = sorted(new_data, key=lambda x: x[0])
-    new_df = pd.DataFrame(new_data).to_csv('C:/Users/yuki_/python/output/formatted_' + filename, encoding='UTF-8', quoting=1)
-    # np.savetxt('C:/Users/yuki_/python/output/' + filename, new_data, delimiter=',')
+    new_df = pd.DataFrame(new_data).to_csv('C:/Users/kage1020/python/output/formatted_' + filename, encoding='UTF-8', quoting=1)
+    # np.savetxt('C:/Users/kage1020/python/output/' + filename, new_data, delimiter=',')
     print(filename + ' is successfully saved!')
 
 
