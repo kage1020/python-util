@@ -109,7 +109,7 @@ def get_patient_data(num):
             }
         })
     
-    with open('C:/Users/yuki_/python/output/random_data.json', mode='w', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/output/random_data.json', mode='w', encoding='UTF-8') as file:
         json.dump({'data': patients}, file, ensure_ascii=False, indent=4)
 
 
@@ -134,7 +134,7 @@ def get_institution_data(num):
             'lastUpdate': get_random_date('2000/01/01', '2025/12/31').strftime('%Y/%m/%d')
         })
     
-    with open('C:/Users/yuki_/python/output/random_data.json', mode='w', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/output/random_data.json', mode='w', encoding='UTF-8') as file:
         json.dump({'data': institutions}, file, ensure_ascii=False, indent=4)
 
 
@@ -148,7 +148,7 @@ def get_random_date(start_date, end_date):
 
 
 def get_random_name(gender):
-    with open('C:/Users/yuki_/python/dataset/name.json', mode='r', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/dataset/name.json', mode='r', encoding='UTF-8') as file:
         obj = json.load(file)
     rand = random.randint(0, min(len(obj['male']), len(obj['female'])) - 1)
     if gender == 'male':
@@ -160,14 +160,14 @@ def get_random_name(gender):
 
 
 def get_random_address():
-    with open('C:/Users/yuki_/python/dataset/address.json', mode='r', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/dataset/address.json', mode='r', encoding='UTF-8') as file:
         obj = json.load(file)
     rand = random.randint(0, len(obj['data']) - 1)
     return obj['data'][rand]
 
 
 def get_random_disease():
-    with open('C:/Users/yuki_/python/dataset/disease.json', mode='r', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/dataset/disease.json', mode='r', encoding='UTF-8') as file:
         obj = json.load(file)
     rand = random.randint(0, len(obj['data']) - 1)
     return obj['data'][rand]
@@ -205,14 +205,14 @@ def get_random_symptom():
 
 
 def get_random_hospital():
-    with open('C:/Users/yuki_/python/dataset/hospital_with_university.json', mode='r', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/dataset/hospital_with_university.json', mode='r', encoding='UTF-8') as file:
         obj = json.load(file)
     rand = random.randint(0, len(obj['data']) - 1)
     return obj['data'][rand]
 
 
 def get_random_mail():
-    with open('C:/Users/yuki_/python/dataset/mail.json', mode='r', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/dataset/mail.json', mode='r', encoding='UTF-8') as file:
         obj = json.load(file)
     rand = random.randrange(0, len(obj['data']))
     return obj['data'][rand]
