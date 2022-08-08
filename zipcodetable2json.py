@@ -3,22 +3,22 @@ import json
 import math
 
 def main():
-    with open('C:/Users/yuki_/python/dataset/formatted_KEN_ALL.CSV', mode='r', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/dataset/formatted_KEN_ALL.CSV', mode='r', encoding='UTF-8') as file:
         df = pd.read_csv(file, dtype='object').fillna('')
         arrays = df.to_numpy(copy=True).tolist()
     
     data = get_json(arrays)
 
-    with open('C:/Users/yuki_/python/output/KEN_ALL.json', mode='w', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/output/KEN_ALL.json', mode='w', encoding='UTF-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
-    with open('C:/Users/yuki_/python/dataset/formatted_JIGYOSYO.CSV', mode='r', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/dataset/formatted_JIGYOSYO.CSV', mode='r', encoding='UTF-8') as file:
         df = pd.read_csv(file, dtype='object').fillna('')
         arrays = df.to_numpy(copy=True).tolist()
     
     data = get_json(arrays)
 
-    with open('C:/Users/yuki_/python/output/JIGYOSYO.json', mode='w', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/output/JIGYOSYO.json', mode='w', encoding='UTF-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
 
