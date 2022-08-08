@@ -6,7 +6,7 @@ import json
 def main():
     try:
         src = input('input source dir name: ')
-        des = input('input destination name: ')
+        des = input('input destination dir name: ')
         attr = input('input attribute name for bus stop name: ')
         files = glob.glob(f'{src}/*.geojson')
         for file in files:
