@@ -21,7 +21,7 @@ def main():
             'zipcode': line[6]
         })
     
-    with open('C:/Users/yuki_/python/output/address.json', mode='w', encoding='UTF-8') as file:
+    with open('C:/Users/kage1020/python/output/address.json', mode='w', encoding='UTF-8') as file:
         json.dump(obj, file, ensure_ascii=False, indent=4)
 
 
