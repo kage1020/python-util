@@ -12,10 +12,10 @@ def main():
         for file in files:
             with open(file, mode='r', encoding='UTF-8') as f:
                 ctx = json.load(f)
-            arr = [{'coordinate':s['geometry']['coordinates'],'name':s['properties'][attr]} for s in ctx['features']]
+            points = { s['properties'][attr]: s['geometry']['coordinates'] for s in ctx['features'] }
             name = file.replace(src, des).replace('.geojson', '.json')
             with open(name, mode='w', encoding='UTF-8') as f:
-                json.dump({'bus_stop': arr}, f, ensure_ascii=False, indent=2)
+                json.dump({'points': points}, f, ensure_ascii=False, indent=2)
             sys.stdout.write(f'\033[2K\033[G converted {file}')
             sys.stdout.flush()
     except Exception as e:
