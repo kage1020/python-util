@@ -12,7 +12,7 @@ def main():
         }
         name = src.replace('.geojson', '.json')
         with open(name, mode='w', encoding='UTF-8') as f:
-            json.dump({'bus_stop': points}, f, ensure_ascii=False, indent=2)
+            json.dump({'points': points}, f, ensure_ascii=False, indent=2)
     except Exception as e:
         print(e)
         exit(1)
